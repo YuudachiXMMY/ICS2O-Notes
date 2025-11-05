@@ -159,7 +159,7 @@ def merge_days_in_table(html_path, table_id, output_path=None):
 
 if __name__ == "__main__":
     html_file = "docs/ICD2O.html"
-    # normalize_table_columns(html_file, "full-Calendar", 5)
-    #rename_table_dates(html_file, "full-Calendar")
-    merge_days_in_table(html_file, "full-Calendar")
+    # normalize_table_columns(html_file, "full-Calendar", 5) # Make Each Row have 5 values
+    # rename_table_dates(html_file, "full-Calendar") # Rename to Day 1, Day 2, ...
+    # merge_days_in_table(html_file, "full-Calendar") # combine every two days
     # add_weekday_dates_to_table(html_file, "full-Calendar", "2025-11-10")

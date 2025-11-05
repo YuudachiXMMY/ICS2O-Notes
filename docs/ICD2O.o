@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
-<title>Gorski CompSci</title>
+<title>Jadyn Wu CompSci</title>
 <meta charset="UTF-8">
 <link rel="stylesheet" href="styles/layout.css" type="text/css">
 <!--[if lt IE 9]><script src="scripts/html5shiv.js"></script><![endif]-->
@@ -13,7 +13,7 @@
       <h1>ICD2O - Grade 10 </h1>
     </div>
     <a href="https://code.org/educate/applab"></a>
-    <nav>
+    <!-- <nav>
       <ul>
 	<li><a href="index.html">Home</a></li>
         <li><a href="ICD2O.html"><b>ICD2O</b></a></li>
@@ -23,7 +23,7 @@
 	<li><a href="SHSM.html">SHSM</a></li>
         <li class="last"><a href="CodingClub.html">Extra Resources</a></li>
       </ul>
-    </nav>
+    </nav> -->
   </header>
 </div>
 <!-- content -->
@@ -50,7 +50,7 @@
 (<a href="#Calendar">Entire Calendar at Bottom</a>)
 
 <br>
-<table width="100%" border="1">
+<!-- <table width="100%" border="1">
   <tr>
     <td valign="top" bgcolor="#FED9C9"><strong>Nov 3</strong><br>
       <strong>Due by end of class:</strong> Escape Room Analysis<br>
@@ -61,28 +61,28 @@
       Unit 3 Codes Due<br>
       - 4 - <a href="ICS2O/Unit3/bubbleGum.pdf">Bubble Gum</a><br>
       - 5 - <a href="ICS2O/Unit3/CatAndTheFiddle.pdf">Cat and the Fiddle</a> <br>
-      - 6 - <a href="../ICS2O/Unit2/B1_FortuneCookie.pdf">Fortune Cookie</a>, pictures: <a href="../ICS2O/Unit2/cookieOpen.jpg">open</a>, <a href="../ICS2O/Unit2/cookieClose.JPG">closed</a><br>
-      - 7 - <a href="../ICS2O/Unit2/B2_MathQuestions.pdf">Math Questions</a><a href="ICS2O/Unit1/B6_Conversions.pdf"></a><br>
+      - 6 - <a href="ICS2O/Unit2/B1_FortuneCookie.pdf">Fortune Cookie</a>, pictures: <a href="ICS2O/Unit2/cookieOpen.jpg">open</a>, <a href="ICS2O/Unit2/cookieClose.JPG">closed</a><br>
+      - 7 - <a href="ICS2O/Unit2/B2_MathQuestions.pdf">Math Questions</a><a href="ICS2O/Unit1/B6_Conversions.pdf"></a><br>
       - 8 - <a href="ICS2O/Unit2/B3_RPS.pdf">Rock Paper Scissors</a>, pictures: <a href="ICS2O/Unit2/rock.png">rock</a>, <a href="ICS2O/Unit2/paper.png">paper</a>, <a href="ICS2O/Unit2/scissors.png">scissors</a><br>
       - 9 - <a href="ICS2O/Unit3/Decoding_Text_Assignment.pdf">Decoding Text</a> <br>
       - 10 - <a href="ICS2O/Unit3/Nim.pdf">Nim</a>, <a href="ICS2O/Unit3/Nim.zip">pics</a>, <a href="https://youtu.be/T_4kgJiRWCU">applab demo</a>, <a href="https://youtu.be/ouwL0iUWZBw">live demo</a><br>
       - 11 - <a href="ICS2O/Unit3/ScavengerHunt.pdf">Scavenger Hunt is here</a>. <a href="ICS2O/Unit3/ScavengerHunt.zip">Pictures, unzipping</a> <br>
       - 12 - <a href="ICS2O/Unit3/PictureSudoku.pdf">Sudoko</a>, <a href="ICS2O/Unit3/Suduko.zip">pics</a>, <a href="https://youtu.be/RKAFRaeR6RA">unzipping</a><br>
       - 13 - <a href="ICS2O/Unit2/B5_Pokemon.pdf"> Pokemon, </a><a href="ICS2O/Unit2/pikachu.png">pikachu</a>, <a href="ICS2O/Unit2/pikachuWIN.png">pikawin</a>, <a href="ICS2O/Unit2/bulbasaur.png">bulbasaur</a>, <a href="ICS2O/Unit2/bulbasaurWIN.jpg">bulbawin</a> <br>
-      - 
+      -
       14 - <a href="ICS2O/Unit2/B6_Tic_Tac_Toe.pdf">Tic Tac Toe</a>, <a href="https://youtu.be/kzOwYaeCJXQ">video hint</a><br>
-      - 15 -<a href="../ICS2O/Unit3/C10_KenKen.pdf"> Ken Ken</a>, <a href="../ICS2O/Unit3/kenken.png">pic</a><br></td>
+      - 15 -<a href="ICS2O/Unit3/C10_KenKen.pdf"> Ken Ken</a>, <a href="ICS2O/Unit3/kenken.png">pic</a><br></td>
     <td valign="top" bgcolor="#FED9C9"><strong>Nov 4</strong><br>
       <strong>Due by end of class:</strong> Escape Room Design<br>
       <br>
       - Test Review <br>
       - Work on Escape Room Design.<br>
-      - Work on <a href="../ICS2O/Unit2/OpeningScreenBackstory.pdf">Opening Screen for Escape Room</a><br></td>
+      - Work on <a href="ICS2O/Unit2/OpeningScreenBackstory.pdf">Opening Screen for Escape Room</a><br></td>
     <td valign="top" bgcolor="#FED9C9"><strong>Nov 5</strong><br>
       - Test Review<br>
       - <a href="ICS2O/Unit3/DrillNKill.pdf">Test Review Questions </a><br>
       <br>
-      - Work on <a href="../ICS2O/Unit2/OpeningScreenBackstory.pdf">Opening Screen for Escape Room</a><br>
+      - Work on <a href="ICS2O/Unit2/OpeningScreenBackstory.pdf">Opening Screen for Escape Room</a><br>
       - Work on Escape Room Task 1<br></td>
     <td valign="top" bgcolor="#FED9C9"><strong>Nov 6</strong><br>
       <strong>Due at start of class: </strong>Opening Screen<br>
@@ -115,7 +115,7 @@
     <td valign="top" bgcolor="#FED9C9"><strong>Nov 14</strong><br>
       - <strong>Due start of class: </strong>Escape Room Ending.<br>
       -<a href="ICS3U/Unit6/Comments.pdf"> Comments &amp; Polishing </a>of Escape Room - make your program is fully commented<br>
-      - 
+      -
       Make sure that your Escape Room is ready for Alpha Testing on Monday<br></td>
   </tr>
   <tr>
@@ -138,7 +138,7 @@
       <br>
       <br></td>
   </tr>
-</table>
+</table> -->
 <h2>&nbsp;</h2>
 <h2>&nbsp;</h2>
 <h2><a id="Unit1"></a>Unit 1: Hardware and Computational Thinking</h2>
@@ -151,7 +151,7 @@
     <td bgcolor="#EEEEEE">C (Level 4, 4+)</td>
   </tr>
   <tr>
-    <td valign="top"><a href="ICS2O/ICS2O0_studentCourseOutline_Fall2020.pdf">Course Outline</a></td>
+    <td valign="top"><a href="ICS2O/ICS2O_studentCourseOutline_Fall2025.pdf">Course Outline</a></td>
     <td valign="top">Course Intro: <a target="_blank" href="https://youtu.be/nsj6U75KfWY">https://youtu.be/nsj6U75KfWY</a><br>
       <a href="ICS2O/BCSS_Procedures_2020_Quad1.pdf">Contact Info</a></td>
     <td valign="top">&nbsp;</td>
@@ -480,7 +480,7 @@ EQAO Point - Detail - Analysis: <a href="https://youtu.be/PefimtEdvEc">https://y
         <tr>
           <td><a href="ICS2O/Unit2/ppt3_IfStatements.pdf">3.3 If Statements and Scientific Categories</a></td>
           <td>&nbsp;</td>
-          <td><a href="../ICS2O/Unit2/A2_Magic8Ball.pdf">A3 Magic 8 Ball</a>, <a href="../ICS2O/Unit2/magic8ball.jpg">picture</a>, <a href="https://youtu.be/5_-9T3tsn3Q">video intro</a></td>
+          <td><a href="ICS2O/Unit2/A2_Magic8Ball.pdf">A3 Magic 8 Ball</a>, <a href="ICS2O/Unit2/magic8ball.jpg">picture</a>, <a href="https://youtu.be/5_-9T3tsn3Q">video intro</a></td>
           <td>&nbsp;</td>
           <td><a href="ICS2O/Unit2/C1_Course3_part278_fall2020.pdf">C1 Course #3, 2, 7, 8</a></td>
         </tr>
@@ -494,8 +494,8 @@ EQAO Point - Detail - Analysis: <a href="https://youtu.be/PefimtEdvEc">https://y
         <tr>
           <td>3.5 Ken Kens</td>
           <td><a href="https://youtu.be/vv37IFRHsSU">https://youtu.be/vv37IFRHsSU</a></td>
-          <td><a href="../ICS2O/Unit2/A4_Dice.pdf">A4 Dice</a>, <a href="../ICS2O/Unit2/d1.png">d1</a>, <a href="../ICS2O/Unit2/d2.png">d2</a>, <a href="../ICS2O/Unit2/d3.png">d3</a>, <a href="../ICS2O/Unit2/d4.png">d4</a>, <a href="../ICS2O/Unit2/d5.png">d5</a>, <a href="../ICS2O/Unit2/d6.png">d6</a>, <a href="https://youtu.be/_XGGSXk2wgk">video intro</a></td>
-          <td><a href="../ICS2O/Unit3/C10_KenKen.pdf">B4 Ken Ken</a>, <a href="../ICS2O/Unit3/kenken.png">pic</a>          </td>
+          <td><a href="ICS2O/Unit2/A4_Dice.pdf">A4 Dice</a>, <a href="ICS2O/Unit2/d1.png">d1</a>, <a href="ICS2O/Unit2/d2.png">d2</a>, <a href="ICS2O/Unit2/d3.png">d3</a>, <a href="ICS2O/Unit2/d4.png">d4</a>, <a href="ICS2O/Unit2/d5.png">d5</a>, <a href="ICS2O/Unit2/d6.png">d6</a>, <a href="https://youtu.be/_XGGSXk2wgk">video intro</a></td>
+          <td><a href="ICS2O/Unit3/C10_KenKen.pdf">B4 Ken Ken</a>, <a href="ICS2O/Unit3/kenken.png">pic</a>          </td>
           <td><a href="ICS2O/Unit3/PictureSudoku.pdf">C6 Sudoko</a>, <a href="ICS2O/Unit3/Suduko.zip">pics</a>, <a href="https://youtu.be/RKAFRaeR6RA">unzipping</a><a href="ICS2O/Unit2/bulbasaurWIN.jpg"><br>
           </a></td>
         </tr>
@@ -504,15 +504,15 @@ EQAO Point - Detail - Analysis: <a href="https://youtu.be/PefimtEdvEc">https://y
           <td>comments: <a href="https://youtu.be/rgHAFQEO0eg">https://youtu.be/rgHAFQEO0eg</a><br>
             indent demo 1: <a href="https://youtu.be/CQNYBk8-zmU">https://youtu.be/CQNYBk8-zmU</a><br>
             indent demo 2: <a href="https://youtu.be/eDnE801zzW8">https://youtu.be/eDnE801zzW8</a></td>
-          <td><a href="../ICS2O/Unit2/A3_AngryBirds.pdf">A5 Angry Birds</a>, pictures: <a href="../ICS2O/Unit2/angrybirds/blues.png">blues</a>, <a href="../ICS2O/Unit2/angrybirds/bomb.png">bomb</a>, <a href="../ICS2O/Unit2/angrybirds/bubbles.png">bubbles</a>, <a href="../ICS2O/Unit2/angrybirds/chuck.png">chuck</a>, <a href="../ICS2O/Unit2/angrybirds/hal.png">hal</a>, <a href="../ICS2O/Unit2/angrybirds/matilda.png">matilda</a>, <a href="../ICS2O/Unit2/angrybirds/red.png">red</a>, <a href="../ICS2O/Unit2/angrybirds/stella.png">stella</a>. <a href="https://youtu.be/Qa-VYUvnedI">video hint </a></td>
-          <td><a href="../ICS2O/Unit2/B1_FortuneCookie.pdf">B2 Fortune Cookie</a>, <a href="../ICS2O/Unit2/cookieOpen.jpg">open</a>, <a href="../ICS2O/Unit2/cookieClose.JPG">closed</a></td>
+          <td><a href="ICS2O/Unit2/A3_AngryBirds.pdf">A5 Angry Birds</a>, pictures: <a href="ICS2O/Unit2/angrybirds/blues.png">blues</a>, <a href="ICS2O/Unit2/angrybirds/bomb.png">bomb</a>, <a href="ICS2O/Unit2/angrybirds/bubbles.png">bubbles</a>, <a href="ICS2O/Unit2/angrybirds/chuck.png">chuck</a>, <a href="ICS2O/Unit2/angrybirds/hal.png">hal</a>, <a href="ICS2O/Unit2/angrybirds/matilda.png">matilda</a>, <a href="ICS2O/Unit2/angrybirds/red.png">red</a>, <a href="ICS2O/Unit2/angrybirds/stella.png">stella</a>. <a href="https://youtu.be/Qa-VYUvnedI">video hint </a></td>
+          <td><a href="ICS2O/Unit2/B1_FortuneCookie.pdf">B2 Fortune Cookie</a>, <a href="ICS2O/Unit2/cookieOpen.jpg">open</a>, <a href="ICS2O/Unit2/cookieClose.JPG">closed</a></td>
           <td><a href="ICS2O/Unit2/A5_GuessingGame.pdf">C2 Guessing Game</a>, <a href="https://youtu.be/kuJJKizaYBM">video hint</a></td>
         </tr>
         <tr>
           <td valign="top">3.7 Artificial Intelligence</td>
           <td valign="top">Lesson: <a target="_blank" href="https://youtu.be/Lbp_eHEoYfY">https://youtu.be/Lbp_eHEoYfY</a></td>
           <td valign="top">&nbsp;</td>
-          <td valign="top"><a href="../ICS2O/Unit2/B2_MathQuestions.pdf">B3 Math Questions</a><a href="ICS2O/Unit1/B6_Conversions.pdf"></a></td>
+          <td valign="top"><a href="ICS2O/Unit2/B2_MathQuestions.pdf">B3 Math Questions</a><a href="ICS2O/Unit1/B6_Conversions.pdf"></a></td>
           <td valign="top"><a href="ICS2O/Unit2/B5_Pokemon.pdf">C3 Pokemon, </a><a href="ICS2O/Unit2/pikachu.png">pikachu</a>, <a href="ICS2O/Unit2/pikachuWIN.png">pikawin</a>, <a href="ICS2O/Unit2/bulbasaur.png">bulbasaur</a>, <a href="ICS2O/Unit2/bulbasaurWIN.jpg">bulbawin</a></td>
         </tr>
         <tr>
@@ -555,17 +555,17 @@ EQAO Point - Detail - Analysis: <a href="https://youtu.be/PefimtEdvEc">https://y
             3. Design (in google classroom)<br>
             <br>
             <a href="ICS2O/Unit2/ICS2O0_project_EscapeRoomMarking.pdf">What mark would this get?</a></td>
-          <td valign="top"><a href="../ICS2O/Unit2/OpeningScreenBackstory.pdf">Opening Screen &amp; Backstory</a><a href="../ICS2O/Unit2/ICS2O0_alphatest_p2_2018.pdf"><br>
-            </a><a href="https://iconarchive.com/">Transparent Background Images: iconarchive</a><a href="../ICS2O/Unit2/ICS2O0_alphatest_p2_2018.pdf"> <br />
+          <td valign="top"><a href="ICS2O/Unit2/OpeningScreenBackstory.pdf">Opening Screen &amp; Backstory</a><a href="ICS2O/Unit2/ICS2O0_alphatest_p2_2018.pdf"><br>
+            </a><a href="https://iconarchive.com/">Transparent Background Images: iconarchive</a><a href="ICS2O/Unit2/ICS2O0_alphatest_p2_2018.pdf"> <br />
             Alpha Test</a><br />
             <a href="ICS2O/Unit2/ICS2O0_project_rubric_p2_2020.pdf">Gold Master<br />
             </a><a href="https://youtu.be/RiyHTpr0etg">Making Clear Buttons</a><br>
-              <a href="ICS2O/Unit2/Coding_PrintingOutTextSlowly.pdf">Printing things out slowly (like a typewriter) </a><a href="../ICS2O/Unit2/ICS2O0_project_rubric_p2_2018.pdf"><br>
-              </a><a href="https://youtu.be/CQyZJhJG8Ec">How to make Sudoku pictures </a><a href="../ICS2O/Unit2/ICS2O0_project_rubric_p2_2018.pdf"><br />
+              <a href="ICS2O/Unit2/Coding_PrintingOutTextSlowly.pdf">Printing things out slowly (like a typewriter) </a><a href="ICS2O/Unit2/ICS2O0_project_rubric_p2_2018.pdf"><br>
+              </a><a href="https://youtu.be/CQyZJhJG8Ec">How to make Sudoku pictures </a><a href="ICS2O/Unit2/ICS2O0_project_rubric_p2_2018.pdf"><br />
             </a><a href="ICS2O/Unit3/Project/Comments.pdf">Comments </a> Video about <a href = "https://www.youtube.com/watch?v=HjOW6kB1CrQ&amp;feature=youtu.be">comments.</a></td>
           <td valign="top"><a href="ICS2O/Unit2/ICS2O0_project_rubric_p2_2020.pdf">Rubric, Self Evaluation</a><br />
             <br />
-            <a href="../ICS2O/Unit2/10_sampleTest2_2018Fall.pdf"></a></td>
+            <a href="ICS2O/Unit2/10_sampleTest2_2018Fall.pdf"></a></td>
         </tr>
       </table>
       <h2>&nbsp;</h2>
@@ -804,9 +804,9 @@ EQAO Point - Detail - Analysis: <a href="https://youtu.be/PefimtEdvEc">https://y
       <h2><a id="Calendar"></a>Calendar - Entire Course      </h2>
       <table width="100%" border="1">
         <tr>
-          <td valign="top" bgcolor="#D2FFFF"><strong>Sept 1</strong> - 
+          <td valign="top" bgcolor="#D2FFFF"><strong>Sept 1</strong> -
             Labour Day</td>
-          <td valign="top" bgcolor="#D2FFFF"><strong>Sept 2</strong> - 
+          <td valign="top" bgcolor="#D2FFFF"><strong>Sept 2</strong> -
             Grade 9 Orientation</td>
           <td valign="top" bgcolor="#FED9C9"><p><strong>Sept 3</strong> -          First Day of Class<br>
             - <a href="ICS2O/Unit1/pp1_CoolTech_2019.pdf">Sheet 1.1 Computer Applications</a></p></td>
@@ -983,7 +983,7 @@ EQAO Point - Detail - Analysis: <a href="https://youtu.be/PefimtEdvEc">https://y
         </tr>
         <tr>
           <td valign="top" bgcolor="#FFFFE3"><strong>Oct 6</strong><br>
-            - Sheet 2.9 Computational Thinking: Breadth First Search, 
+            - Sheet 2.9 Computational Thinking: Breadth First Search,
             Depth First Search <br>
             - <a href="ICS2O/Unit2/ppt8_ANs_Net.pdf">Addresses<br>
               </a>- <a target="_blank" href="https://youtu.be/hsVRTfTbk-I">https://youtu.be/hsVRTfTbk-I</a><br>
@@ -1032,9 +1032,9 @@ EQAO Point - Detail - Analysis: <a href="https://youtu.be/PefimtEdvEc">https://y
             - <a href="ICS2O/Unit2/ppt2_DecisionStatements.pdf">Sheet 3.3 If statements </a> <br>
             <br>
             Code:<br>
-            - 1 - <a href="../ICS2O/Unit2/A2_Magic8Ball.pdf">Magic 8 Ball</a>, <a href="../ICS2O/Unit2/magic8ball.jpg">picture</a>, <a href="https://youtu.be/5_-9T3tsn3Q">video intro</a><br>
-            - 2 - <a href="../ICS2O/Unit2/A4_Dice.pdf">Dice</a>, <a href="../ICS2O/Unit2/d1.png">d1</a>, <a href="../ICS2O/Unit2/d2.png">d2</a>, <a href="../ICS2O/Unit2/d3.png">d3</a>, <a href="../ICS2O/Unit2/d4.png">d4</a>, <a href="../ICS2O/Unit2/d5.png">d5</a>, <a href="../ICS2O/Unit2/d6.png">d6</a>, <a href="https://youtu.be/_XGGSXk2wgk">video intro</a><br>
-            - 3 - <a href="../ICS2O/Unit2/A3_AngryBirds.pdf">Angry Birds</a>, pictures: <a href="../ICS2O/Unit2/angrybirds/blues.png">blues</a>, <a href="../ICS2O/Unit2/angrybirds/bomb.png">bomb</a>, <a href="../ICS2O/Unit2/angrybirds/bubbles.png">bubbles</a>, <a href="../ICS2O/Unit2/angrybirds/chuck.png">chuck</a>, <a href="../ICS2O/Unit2/angrybirds/hal.png">hal</a>, <a href="../ICS2O/Unit2/angrybirds/matilda.png">matilda</a>, <a href="../ICS2O/Unit2/angrybirds/red.png">red</a>, <a href="../ICS2O/Unit2/angrybirds/stella.png">stella</a>. <a href="https://youtu.be/Qa-VYUvnedI">video hint </a><a href="ICS2O/Unit2/ppt3_IfStatements.pdf"><br>
+            - 1 - <a href="ICS2O/Unit2/A2_Magic8Ball.pdf">Magic 8 Ball</a>, <a href="ICS2O/Unit2/magic8ball.jpg">picture</a>, <a href="https://youtu.be/5_-9T3tsn3Q">video intro</a><br>
+            - 2 - <a href="ICS2O/Unit2/A4_Dice.pdf">Dice</a>, <a href="ICS2O/Unit2/d1.png">d1</a>, <a href="ICS2O/Unit2/d2.png">d2</a>, <a href="ICS2O/Unit2/d3.png">d3</a>, <a href="ICS2O/Unit2/d4.png">d4</a>, <a href="ICS2O/Unit2/d5.png">d5</a>, <a href="ICS2O/Unit2/d6.png">d6</a>, <a href="https://youtu.be/_XGGSXk2wgk">video intro</a><br>
+            - 3 - <a href="ICS2O/Unit2/A3_AngryBirds.pdf">Angry Birds</a>, pictures: <a href="ICS2O/Unit2/angrybirds/blues.png">blues</a>, <a href="ICS2O/Unit2/angrybirds/bomb.png">bomb</a>, <a href="ICS2O/Unit2/angrybirds/bubbles.png">bubbles</a>, <a href="ICS2O/Unit2/angrybirds/chuck.png">chuck</a>, <a href="ICS2O/Unit2/angrybirds/hal.png">hal</a>, <a href="ICS2O/Unit2/angrybirds/matilda.png">matilda</a>, <a href="ICS2O/Unit2/angrybirds/red.png">red</a>, <a href="ICS2O/Unit2/angrybirds/stella.png">stella</a>. <a href="https://youtu.be/Qa-VYUvnedI">video hint </a><a href="ICS2O/Unit2/ppt3_IfStatements.pdf"><br>
             </a></td>
           <td valign="top" bgcolor="#CAFFE4"><strong>Oct 17</strong><br>
             <a href="ICS2O/Unit2/ppt2_DecisionStatements.pdf">- Sheet 3.1 Artificial Intelligence<br>
@@ -1059,11 +1059,11 @@ EQAO Point - Detail - Analysis: <a href="https://youtu.be/PefimtEdvEc">https://y
             - Sheet 3.4 Ifs #2 <br>
             <br>
             Code: <br>
-            - 1 - <a href="../ICS2O/Unit2/A2_Magic8Ball.pdf">Magic 8 Ball</a>, <a href="../ICS2O/Unit2/magic8ball.jpg">picture</a>, <a href="https://youtu.be/5_-9T3tsn3Q">video intro</a><br>
-            - 2 - <a href="../ICS2O/Unit2/A4_Dice.pdf">Dice</a>, <a href="../ICS2O/Unit2/d1.png">d1</a>, <a href="../ICS2O/Unit2/d2.png">d2</a>, <a href="../ICS2O/Unit2/d3.png">d3</a>, <a href="../ICS2O/Unit2/d4.png">d4</a>, <a href="../ICS2O/Unit2/d5.png">d5</a>, <a href="../ICS2O/Unit2/d6.png">d6</a>, <a href="https://youtu.be/_XGGSXk2wgk">video intro</a><br>
-            - 3 - <a href="../ICS2O/Unit2/A3_AngryBirds.pdf">Angry Birds</a>, pictures: <a href="../ICS2O/Unit2/angrybirds/blues.png">blues</a>, <a href="../ICS2O/Unit2/angrybirds/bomb.png">bomb</a>, <a href="../ICS2O/Unit2/angrybirds/bubbles.png">bubbles</a>, <a href="../ICS2O/Unit2/angrybirds/chuck.png">chuck</a>, <a href="../ICS2O/Unit2/angrybirds/hal.png">hal</a>, <a href="../ICS2O/Unit2/angrybirds/matilda.png">matilda</a>, <a href="../ICS2O/Unit2/angrybirds/red.png">red</a>, <a href="../ICS2O/Unit2/angrybirds/stella.png">stella</a>. <a href="https://youtu.be/Qa-VYUvnedI">video hint </a><br>
-            - 6 - <a href="../ICS2O/Unit2/B1_FortuneCookie.pdf">Fortune Cookie</a>, pictures: <a href="../ICS2O/Unit2/cookieOpen.jpg">open</a>, <a href="../ICS2O/Unit2/cookieClose.JPG">closed</a><br>
-            - 7 - <a href="../ICS2O/Unit2/B2_MathQuestions.pdf">Math Questions</a><a href="ICS2O/Unit1/B6_Conversions.pdf"></a><br>
+            - 1 - <a href="ICS2O/Unit2/A2_Magic8Ball.pdf">Magic 8 Ball</a>, <a href="ICS2O/Unit2/magic8ball.jpg">picture</a>, <a href="https://youtu.be/5_-9T3tsn3Q">video intro</a><br>
+            - 2 - <a href="ICS2O/Unit2/A4_Dice.pdf">Dice</a>, <a href="ICS2O/Unit2/d1.png">d1</a>, <a href="ICS2O/Unit2/d2.png">d2</a>, <a href="ICS2O/Unit2/d3.png">d3</a>, <a href="ICS2O/Unit2/d4.png">d4</a>, <a href="ICS2O/Unit2/d5.png">d5</a>, <a href="ICS2O/Unit2/d6.png">d6</a>, <a href="https://youtu.be/_XGGSXk2wgk">video intro</a><br>
+            - 3 - <a href="ICS2O/Unit2/A3_AngryBirds.pdf">Angry Birds</a>, pictures: <a href="ICS2O/Unit2/angrybirds/blues.png">blues</a>, <a href="ICS2O/Unit2/angrybirds/bomb.png">bomb</a>, <a href="ICS2O/Unit2/angrybirds/bubbles.png">bubbles</a>, <a href="ICS2O/Unit2/angrybirds/chuck.png">chuck</a>, <a href="ICS2O/Unit2/angrybirds/hal.png">hal</a>, <a href="ICS2O/Unit2/angrybirds/matilda.png">matilda</a>, <a href="ICS2O/Unit2/angrybirds/red.png">red</a>, <a href="ICS2O/Unit2/angrybirds/stella.png">stella</a>. <a href="https://youtu.be/Qa-VYUvnedI">video hint </a><br>
+            - 6 - <a href="ICS2O/Unit2/B1_FortuneCookie.pdf">Fortune Cookie</a>, pictures: <a href="ICS2O/Unit2/cookieOpen.jpg">open</a>, <a href="ICS2O/Unit2/cookieClose.JPG">closed</a><br>
+            - 7 - <a href="ICS2O/Unit2/B2_MathQuestions.pdf">Math Questions</a><a href="ICS2O/Unit1/B6_Conversions.pdf"></a><br>
             - 8 - <a href="ICS2O/Unit2/B3_RPS.pdf">Rock Paper Scissors</a>, pictures: <a href="ICS2O/Unit2/rock.png">rock</a>, <a href="ICS2O/Unit2/paper.png">paper</a>, <a href="ICS2O/Unit2/scissors.png">scissors</a><br>
             - 10 - <a href="ICS2O/Unit3/Nim.pdf">Nim</a>, <a href="ICS2O/Unit3/Nim.zip">pics</a>, <a href="https://youtu.be/T_4kgJiRWCU">applab demo</a>, <a href="https://youtu.be/ouwL0iUWZBw">live demo</a><br>
             - 13 - <a href="ICS2O/Unit2/B5_Pokemon.pdf"> Pokemon, </a><a href="ICS2O/Unit2/pikachu.png">pikachu</a>, <a href="ICS2O/Unit2/pikachuWIN.png">pikawin</a>, <a href="ICS2O/Unit2/bulbasaur.png">bulbasaur</a>, <a href="ICS2O/Unit2/bulbasaurWIN.jpg">bulbawin</a><br></td>
@@ -1103,13 +1103,13 @@ EQAO Point - Detail - Analysis: <a href="https://youtu.be/PefimtEdvEc">https://y
           <td valign="top" bgcolor="#CAFFE4"><strong>Oct 27</strong> [Gorski SHSM]<br>
             Work on Unit 2 code:<br>
             Aim to have at least 5 codes done by the end of class.<br>
-            - 1 - <a href="../ICS2O/Unit2/A2_Magic8Ball.pdf">Magic 8 Ball</a>, <a href="../ICS2O/Unit2/magic8ball.jpg">picture</a>, <a href="https://youtu.be/5_-9T3tsn3Q">video intro</a><br>
-            - 2 - <a href="../ICS2O/Unit2/A4_Dice.pdf">Dice</a>, <a href="../ICS2O/Unit2/d1.png">d1</a>, <a href="../ICS2O/Unit2/d2.png">d2</a>, <a href="../ICS2O/Unit2/d3.png">d3</a>, <a href="../ICS2O/Unit2/d4.png">d4</a>, <a href="../ICS2O/Unit2/d5.png">d5</a>, <a href="../ICS2O/Unit2/d6.png">d6</a>, <a href="https://youtu.be/_XGGSXk2wgk">video intro</a><br>
-            - 3 - <a href="../ICS2O/Unit2/A3_AngryBirds.pdf">Angry Birds</a>, pictures: <a href="../ICS2O/Unit2/angrybirds/blues.png">blues</a>, <a href="../ICS2O/Unit2/angrybirds/bomb.png">bomb</a>, <a href="../ICS2O/Unit2/angrybirds/bubbles.png">bubbles</a>, <a href="../ICS2O/Unit2/angrybirds/chuck.png">chuck</a>, <a href="../ICS2O/Unit2/angrybirds/hal.png">hal</a>, <a href="../ICS2O/Unit2/angrybirds/matilda.png">matilda</a>, <a href="../ICS2O/Unit2/angrybirds/red.png">red</a>, <a href="../ICS2O/Unit2/angrybirds/stella.png">stella</a>. <a href="https://youtu.be/Qa-VYUvnedI">video hint </a><br>
+            - 1 - <a href="ICS2O/Unit2/A2_Magic8Ball.pdf">Magic 8 Ball</a>, <a href="ICS2O/Unit2/magic8ball.jpg">picture</a>, <a href="https://youtu.be/5_-9T3tsn3Q">video intro</a><br>
+            - 2 - <a href="ICS2O/Unit2/A4_Dice.pdf">Dice</a>, <a href="ICS2O/Unit2/d1.png">d1</a>, <a href="ICS2O/Unit2/d2.png">d2</a>, <a href="ICS2O/Unit2/d3.png">d3</a>, <a href="ICS2O/Unit2/d4.png">d4</a>, <a href="ICS2O/Unit2/d5.png">d5</a>, <a href="ICS2O/Unit2/d6.png">d6</a>, <a href="https://youtu.be/_XGGSXk2wgk">video intro</a><br>
+            - 3 - <a href="ICS2O/Unit2/A3_AngryBirds.pdf">Angry Birds</a>, pictures: <a href="ICS2O/Unit2/angrybirds/blues.png">blues</a>, <a href="ICS2O/Unit2/angrybirds/bomb.png">bomb</a>, <a href="ICS2O/Unit2/angrybirds/bubbles.png">bubbles</a>, <a href="ICS2O/Unit2/angrybirds/chuck.png">chuck</a>, <a href="ICS2O/Unit2/angrybirds/hal.png">hal</a>, <a href="ICS2O/Unit2/angrybirds/matilda.png">matilda</a>, <a href="ICS2O/Unit2/angrybirds/red.png">red</a>, <a href="ICS2O/Unit2/angrybirds/stella.png">stella</a>. <a href="https://youtu.be/Qa-VYUvnedI">video hint </a><br>
             - 4 - <a href="ICS2O/Unit3/bubbleGum.pdf">Bubble Gum</a><br>
             - 5 - <a href="ICS2O/Unit3/CatAndTheFiddle.pdf">Cat and the Fiddle</a> <br>
-            - 6 - <a href="../ICS2O/Unit2/B1_FortuneCookie.pdf">Fortune Cookie</a>, pictures: <a href="../ICS2O/Unit2/cookieOpen.jpg">open</a>, <a href="../ICS2O/Unit2/cookieClose.JPG">closed</a><br>
-            - 7 - <a href="../ICS2O/Unit2/B2_MathQuestions.pdf">Math Questions</a><a href="ICS2O/Unit1/B6_Conversions.pdf"></a><br>
+            - 6 - <a href="ICS2O/Unit2/B1_FortuneCookie.pdf">Fortune Cookie</a>, pictures: <a href="ICS2O/Unit2/cookieOpen.jpg">open</a>, <a href="ICS2O/Unit2/cookieClose.JPG">closed</a><br>
+            - 7 - <a href="ICS2O/Unit2/B2_MathQuestions.pdf">Math Questions</a><a href="ICS2O/Unit1/B6_Conversions.pdf"></a><br>
             - 8 - <a href="ICS2O/Unit2/B3_RPS.pdf">Rock Paper Scissors</a>, pictures: <a href="ICS2O/Unit2/rock.png">rock</a>, <a href="ICS2O/Unit2/paper.png">paper</a>, <a href="ICS2O/Unit2/scissors.png">scissors</a><br>
             - 9 - <a href="ICS2O/Unit3/Decoding_Text_Assignment.pdf">Decoding Text</a> <br></td>
           <td valign="top" bgcolor="#CAFFE4"><strong>Oct 28</strong><br>
@@ -1128,16 +1128,16 @@ EQAO Point - Detail - Analysis: <a href="https://youtu.be/PefimtEdvEc">https://y
             - 11 - <a href="ICS2O/Unit3/ScavengerHunt.pdf">Scavenger Hunt is here</a>. <a href="ICS2O/Unit3/ScavengerHunt.zip">Pictures, unzipping</a> <br>
             - 12 - <a href="ICS2O/Unit3/PictureSudoku.pdf">Sudoko</a>, <a href="ICS2O/Unit3/Suduko.zip">pics</a>, <a href="https://youtu.be/RKAFRaeR6RA">unzipping</a><br>
             - 13 - <a href="ICS2O/Unit2/B5_Pokemon.pdf"> Pokemon, </a><a href="ICS2O/Unit2/pikachu.png">pikachu</a>, <a href="ICS2O/Unit2/pikachuWIN.png">pikawin</a>, <a href="ICS2O/Unit2/bulbasaur.png">bulbasaur</a>, <a href="ICS2O/Unit2/bulbasaurWIN.jpg">bulbawin</a> <br>
-            - 
+            -
             14 - <a href="ICS2O/Unit2/B6_Tic_Tac_Toe.pdf">Tic Tac Toe</a>, <a href="https://youtu.be/kzOwYaeCJXQ">video hint</a><br>
-            - 15 -<a href="../ICS2O/Unit3/C10_KenKen.pdf"> Ken Ken</a>, <a href="../ICS2O/Unit3/kenken.png">pic</a> <br>
+            - 15 -<a href="ICS2O/Unit3/C10_KenKen.pdf"> Ken Ken</a>, <a href="ICS2O/Unit3/kenken.png">pic</a> <br>
             <br></td>
           <td valign="top" bgcolor="#CAFFE4"><strong>Oct 30</strong> - Wellness<br>
             Work on Unit 2 Codes:<br>
             Focus on tasks you'd like to consider for your game.<br>
             <br>
             Some ideas:<br>
-            - 7 - <a href="../ICS2O/Unit2/B2_MathQuestions.pdf">Math Questions</a><a href="ICS2O/Unit1/B6_Conversions.pdf"></a><br>
+            - 7 - <a href="ICS2O/Unit2/B2_MathQuestions.pdf">Math Questions</a><a href="ICS2O/Unit1/B6_Conversions.pdf"></a><br>
             - 8 - <a href="ICS2O/Unit2/B3_RPS.pdf">Rock Paper Scissors</a>, pictures: <a href="ICS2O/Unit2/rock.png">rock</a>, <a href="ICS2O/Unit2/paper.png">paper</a>, <a href="ICS2O/Unit2/scissors.png">scissors</a> <br>
             - 12 - <a href="ICS2O/Unit3/PictureSudoku.pdf">Sudoko</a>, <a href="ICS2O/Unit3/Suduko.zip">pics</a>, <a href="https://youtu.be/RKAFRaeR6RA">unzipping</a><br>
             - 13 - <a href="ICS2O/Unit2/B5_Pokemon.pdf"> Pokemon, </a><a href="ICS2O/Unit2/pikachu.png">pikachu</a>, <a href="ICS2O/Unit2/pikachuWIN.png">pikawin</a>, <a href="ICS2O/Unit2/bulbasaur.png">bulbasaur</a>, <a href="ICS2O/Unit2/bulbasaurWIN.jpg">bulbawin</a><br></td>
@@ -1155,28 +1155,28 @@ EQAO Point - Detail - Analysis: <a href="https://youtu.be/PefimtEdvEc">https://y
             Unit 3 Codes Due<br>
             - 4 - <a href="ICS2O/Unit3/bubbleGum.pdf">Bubble Gum</a><br>
             - 5 - <a href="ICS2O/Unit3/CatAndTheFiddle.pdf">Cat and the Fiddle</a> <br>
-            - 6 - <a href="../ICS2O/Unit2/B1_FortuneCookie.pdf">Fortune Cookie</a>, pictures: <a href="../ICS2O/Unit2/cookieOpen.jpg">open</a>, <a href="../ICS2O/Unit2/cookieClose.JPG">closed</a><br>
-            - 7 - <a href="../ICS2O/Unit2/B2_MathQuestions.pdf">Math Questions</a><a href="ICS2O/Unit1/B6_Conversions.pdf"></a><br>
+            - 6 - <a href="ICS2O/Unit2/B1_FortuneCookie.pdf">Fortune Cookie</a>, pictures: <a href="ICS2O/Unit2/cookieOpen.jpg">open</a>, <a href="ICS2O/Unit2/cookieClose.JPG">closed</a><br>
+            - 7 - <a href="ICS2O/Unit2/B2_MathQuestions.pdf">Math Questions</a><a href="ICS2O/Unit1/B6_Conversions.pdf"></a><br>
             - 8 - <a href="ICS2O/Unit2/B3_RPS.pdf">Rock Paper Scissors</a>, pictures: <a href="ICS2O/Unit2/rock.png">rock</a>, <a href="ICS2O/Unit2/paper.png">paper</a>, <a href="ICS2O/Unit2/scissors.png">scissors</a><br>
             - 9 - <a href="ICS2O/Unit3/Decoding_Text_Assignment.pdf">Decoding Text</a> <br>
             - 10 - <a href="ICS2O/Unit3/Nim.pdf">Nim</a>, <a href="ICS2O/Unit3/Nim.zip">pics</a>, <a href="https://youtu.be/T_4kgJiRWCU">applab demo</a>, <a href="https://youtu.be/ouwL0iUWZBw">live demo</a><br>
             - 11 - <a href="ICS2O/Unit3/ScavengerHunt.pdf">Scavenger Hunt is here</a>. <a href="ICS2O/Unit3/ScavengerHunt.zip">Pictures, unzipping</a> <br>
             - 12 - <a href="ICS2O/Unit3/PictureSudoku.pdf">Sudoko</a>, <a href="ICS2O/Unit3/Suduko.zip">pics</a>, <a href="https://youtu.be/RKAFRaeR6RA">unzipping</a><br>
             - 13 - <a href="ICS2O/Unit2/B5_Pokemon.pdf"> Pokemon, </a><a href="ICS2O/Unit2/pikachu.png">pikachu</a>, <a href="ICS2O/Unit2/pikachuWIN.png">pikawin</a>, <a href="ICS2O/Unit2/bulbasaur.png">bulbasaur</a>, <a href="ICS2O/Unit2/bulbasaurWIN.jpg">bulbawin</a> <br>
-            - 
+            -
             14 - <a href="ICS2O/Unit2/B6_Tic_Tac_Toe.pdf">Tic Tac Toe</a>, <a href="https://youtu.be/kzOwYaeCJXQ">video hint</a><br>
-          - 15 -<a href="../ICS2O/Unit3/C10_KenKen.pdf"> Ken Ken</a>, <a href="../ICS2O/Unit3/kenken.png">pic</a><br></td>
+          - 15 -<a href="ICS2O/Unit3/C10_KenKen.pdf"> Ken Ken</a>, <a href="ICS2O/Unit3/kenken.png">pic</a><br></td>
           <td valign="top" bgcolor="#FED9C9"><strong>Nov 4</strong><br>
             <strong>Due by end of class:</strong> Escape Room Design<br>
             <br>
             - Test Review <br>
             - Work on Escape Room Design.<br>
-            - Work on <a href="../ICS2O/Unit2/OpeningScreenBackstory.pdf">Opening Screen for Escape Room</a><br></td>
+            - Work on <a href="ICS2O/Unit2/OpeningScreenBackstory.pdf">Opening Screen for Escape Room</a><br></td>
           <td valign="top" bgcolor="#FED9C9"><strong>Nov 5</strong><br>
             - Test Review<br>
             - <a href="ICS2O/Unit3/DrillNKill.pdf">Test Review Questions </a><br>
             <br>
-            - Work on <a href="../ICS2O/Unit2/OpeningScreenBackstory.pdf">Opening Screen for Escape Room</a><br>
+            - Work on <a href="ICS2O/Unit2/OpeningScreenBackstory.pdf">Opening Screen for Escape Room</a><br>
           - Work on Escape Room Task 1<br></td>
           <td valign="top" bgcolor="#FED9C9"><strong>Nov 6</strong><br>
             <strong>Due at start of class: </strong>Opening Screen<br>
@@ -1209,7 +1209,7 @@ EQAO Point - Detail - Analysis: <a href="https://youtu.be/PefimtEdvEc">https://y
           <td valign="top" bgcolor="#FED9C9"><strong>Nov 14</strong><br>
             - <strong>Due start of class: </strong>Escape Room Ending.<br>
             -<a href="ICS3U/Unit6/Comments.pdf"> Comments &amp; Polishing </a>of Escape Room - make your program is fully commented<br>
-- 
+-
             Make sure that your Escape Room is ready for Alpha Testing tomorrow<br></td>
         </tr>
         <tr>
@@ -1269,7 +1269,7 @@ Coding Day:<br>
         <tr>
           <td valign="top" bgcolor="#FFFFE3"><strong>Dec 2</strong><br>
             - Read <a href="ICS2O/Unit3/ppt8_KeyboardInput.pdf">Keyboard &amp; Mouse Input </a>or <a href="https://youtu.be/-SpZx86wS4Y">Watch video</a><br>
-            - Complete 
+            - Complete
             &amp; submit sheet 4.6 to hand in bin<br>
             <br>
             Continue codes:<br>

@@ -157,9 +157,42 @@ def merge_days_in_table(html_path, table_id, output_path=None):
 
     print(f"Merged every two <td> cells in table '{table_id}' → saved to {output_path}")
 
+from bs4 import BeautifulSoup
+
+def replace_second_day_with_br(html_path, table_id, output_path=None):
+    """
+    Reads an HTML file, finds a table by its ID, and replaces the second <strong>Day X</strong>
+    inside each <td> with a <br /> while keeping the rest of the content intact.
+    """
+    with open(html_path, "r", encoding="utf-8") as f:
+        soup = BeautifulSoup(f, "html.parser")
+
+    table = soup.find("table", {"id": table_id})
+    if not table:
+        print(f"No table found with id='{table_id}'")
+        return
+
+    for td in table.find_all("td"):
+        strong_tags = td.find_all("strong")
+        if len(strong_tags) >= 2:
+            # Replace the second <strong> tag with <br />
+            second_strong = strong_tags[1]
+            br_tag = soup.new_tag("br")
+            a_tag = soup.new_tag("strong")
+            a_tag.string = "After Break Task"
+            br_tag.append(a_tag)
+            second_strong.replace_with(br_tag)
+
+    output_path = output_path or html_path
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(str(soup))
+
+    print(f"Replaced second <strong>Day X</strong> with <br /> in table '{table_id}' → saved to {output_path}")
+
 if __name__ == "__main__":
     html_file = "docs/ICD2O.html"
     # normalize_table_columns(html_file, "full-Calendar", 5) # Make Each Row have 5 values
     # rename_table_dates(html_file, "full-Calendar") # Rename to Day 1, Day 2, ...
     # merge_days_in_table(html_file, "full-Calendar") # combine every two days
-    # add_weekday_dates_to_table(html_file, "full-Calendar", "2025-11-10")
+    add_weekday_dates_to_table(html_file, "full-Calendar", "2025-11-10")
+    # replace_second_day_with_br(html_file, "full-Calendar")
